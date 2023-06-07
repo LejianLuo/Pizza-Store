@@ -1,0 +1,46 @@
+{
+    
+    "PEPPERONI":{
+        "size":"Small",
+        "dough":"Regular Dough",
+        "sauce":"Italian Sauce",
+        "other":["Mozzarella","Pepperoni"],
+        "price":12
+    },
+    "SAUSAGE PIZZA":{
+        "size":"Small",
+        "dough":"Regular Dough",
+        "sauce":"Italian Sauce",
+        "other":["Mozzarella","Mushroom","Italian Sausage"],
+        "price":10
+    },
+    "HAWAII PIZZA":{
+        "size":"Small",
+        "dough":"Regular Dough",
+        "sauce":"Italian Sauce",
+        "other":["Mozzarella","Pineapple","Ham"],
+        "price":8
+    },
+    "PLANT-BASED PEPPERONI":{
+        "size":"Small",
+        "dough":"Regular Dough",
+        "sauce":"Italian Sauce",
+        "other":["Mozzarella","Plant-based Pepperoni"],
+        "price":12
+    },
+    "MUSHROOM PIZZA":{
+        "size":"Small",
+        "dough":"Regular Dough",
+        "sauce":"Italian Sauce",
+        "other":["Mozzarella","Mushroom"],
+        "price":11
+    },
+    "GARDEN VEGGIE PIZZA":{
+        "size":"Small",
+        "dough":"Regular Dough",
+        "sauce":"Italian Sauce",
+        "other":["Mozzarella","Olive","Pepper","Onion","Mushroom"],
+        "price":12
+    }
+
+}

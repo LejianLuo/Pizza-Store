@@ -1,0 +1,170 @@
+{
+    "meat":{
+        "heading":"ALL MEAT PIZZA",
+        "headingImage":"https://www.thecountrycook.net/wp-content/uploads/2022/05/thumbnail-Smoked-Pepperoni-Pizza-scaled.jpg",
+        "items":[
+            {
+                "name":"PEPPERONI",
+                "image":"https://sipbitego.com/wp-content/uploads/2021/08/Pepperoni-Pizza-Recipe-Sip-Bite-Go.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":12,
+                "customizable":true
+            },
+            {
+                "name":"SAUSAGE PIZZA",
+                "image":"https://static.toiimg.com/photo/59696130.cms",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":10,
+                "customizable":true
+            }, 
+            {
+                "name":"HAWAII PIZZA",
+                "image":"https://cookingformysoul.com/wp-content/uploads/2021/04/homemade-hawaiian-pizza-1200-min-500x500.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":8,
+                "customizable":true
+            }
+        ]
+    
+    },
+    "veggie":{
+        "heading":"VEGGIE PIZZA",
+        "headingImage":"https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg",
+        "items":[
+            {
+                "name":"PLANT-BASED PEPPERONI",
+                "image":"https://sipbitego.com/wp-content/uploads/2021/08/Pepperoni-Pizza-Recipe-Sip-Bite-Go.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":12,
+                "customizable":true
+            },
+            {
+                "name":"MUSHROOM PIZZA",
+                "image":"https://www.acouplecooks.com/wp-content/uploads/2019/06/Mushroom-Pizza-with-Herbs-011.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":11,
+                "customizable":true
+            }, 
+            {
+                "name":"GARDEN VEGGIE PIZZA",
+                "image":"https://www.simplyrecipes.com/thmb/wyfKZ6r4an5GdL19fFiAFlgr19c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Vegetarian-Pizza-LEAD-5-03d81aaf35f24e5b99de36d2c29c15eb.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":12,
+                "customizable":true
+            }
+        ]
+
+    },
+    "chicken":{
+        "heading":"CHICKEN SANDWICH",
+        "headingImage":"https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg",
+        "items":[
+            {
+                "name":"DOUBLE CHICKEN SANDWICH",
+                "image":"https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F06%2Fkfc-japan-double-chicken-fillet-sandwich-release-00022.jpg?q=75&w=800&cbr=1&fit=max",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":13,
+                "customizable":false
+            },
+            {
+                "name":"BUFFALO CHICKEN SANDWICH",
+                "image":"https://www.allrecipes.com/thmb/6YKHEen3KG9UTZAHFRu_nv9ZMhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4498820-02e62c111ac547a28e25bdb323dbd304.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":8,
+                "customizable":false
+            }, 
+            {
+                "name":"SPICY CHICKEN SANDWICH",
+                "image":"https://d1e3z2jco40k3v.cloudfront.net/-/media/mccormickforchefs2017/recipes/720x405/nashville_hot_chicken_sandwich_77802_720x405.jpg?rev=b820004c0a63474eafdf40dadf8898eb&vd=20230120T144330Z&hash=791C9EE6D1C6CADBC06C5173D51C2229",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":8,
+                "customizable":false
+            }
+        ]
+
+    },
+    "wings":{
+        "heading":"WINGS",
+        "headingImage":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/2/19/1/FN_Air-Fryer-Chicken-Wings-H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1550611553388.jpeg",
+        "items":[
+            {
+                "name":"CLASSIC CHICKEN WINGS",
+                "image":"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-12-Fried-Chicken-Wings%2Fkitchn_deckitchn_dec4258-1",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":6,
+                "customizable":false
+            },
+            {
+                "name":"BREADED CHICKEN WINGS",
+                "image":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/3/7/0/NY0105_Pats-Spicy-Fried-Wings.jpg.rend.hgtvcom.616.462.suffix/1371585639157.jpeg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":8,
+                "customizable":false
+            }, 
+            {
+                "name":"POPCORN CHICKEN",
+                "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/popcorn-chicken-recipe.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":7,
+                "customizable":false
+            }
+        ]
+
+    },
+    "sides":{
+        "heading":"SIDES",
+        "headingImage":"https://shewearsmanyhats.com/wp-content/uploads/2014/08/fried-pickles-3.jpg",
+        "items":[
+            {
+                "name":"POUTINE",
+                "image":"https://www.seasonsandsuppers.ca/wp-content/uploads/2014/01/new-poutine-1.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":9,
+                "customizable":false
+            },
+            {
+                "name":"FRIES",
+                "image":"https://www.chewoutloud.com/wp-content/uploads/2023/01/Sweet-Potato-Fries-Horizontal.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":6,
+                "customizable":false
+            }, 
+            {
+                "name":"ONION RING",
+                "image":"https://kristineskitchenblog.com/wp-content/uploads/2022/03/crispy-air-fryer-onion-rings-recipe-0775.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":6,
+                "customizable":false
+            }
+        ]
+
+    },
+    "drinks":{
+        "heading":"DRINKS",
+        "headingImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdXyIW9DlD4KNAiSfIrm5X05buzbmpygFNkZjtr3m3Kcn4bIXwThVhb9f0XfQhF1Z0Jhw&usqp=CAU",
+        "items":[
+            {
+                "name":"DIET COKE",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSgte-kyerH88z1zo0wASlm55VX4MoeOz-Q&usqp=CAU",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":2,
+                "customizable":false
+            },
+            {
+                "name":"NESTA TEA",
+                "image":"https://www.nestle.com/sites/default/files/nestea_1.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":3,
+                "customizable":false
+            }, 
+            {
+                "name":"CANADA DRY",
+                "image":"https://thumbs.dreamstime.com/b/london-uk-october-canada-dry-ginger-ale-soft-drink-white-background-aluminium-can-250634410.jpg",
+                "description":"Donec ut dui ut est vehicula volutpat. Nullam ligula nibh, blandit quis dignissim sed, porta eu massa. Nam a nibh sed augue dictum faucibus in eu orci. Duis ultrices vehicula elementum.",
+                "price":2,
+                "customizable":false
+            }
+        ]
+
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "Size":[
+        {
+            "name":"Small",
+            "image":"https://www.creativefabrica.com/wp-content/uploads/2020/05/15/Six-Slice-Pizza-Meat-Lovers-Icon-Graphics-4131930-1.jpg"
+        },
+        {
+            "name":"Medium",
+            "image":"https://thumbs.dreamstime.com/b/top-wiev-vector-pizza-eight-slices-isolated-white-background-181208915.jpg"
+        },
+        {
+            "name":"Large",
+            "image":"https://img.freepik.com/premium-vector/vector-colorful-icon-pizza-isolated-white-background_134830-1099.jpg"
+        }
+    ],
+    "Base":[
+            
+            "Crust",
+            {
+                "name":"Regular Dough",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/RD.png?cache_key=22"
+            },
+            {
+                "name":"Thin Dough",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/ZC.png?cache_key=22"
+            },
+            {
+                "name":"Thick Dough",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/ZD.png?cache_key=22"
+            },
+            "Sauce",
+            {
+                "name": "Italian Sauce",
+                "image": "https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/basesauce/SH.png?cache_key=22"
+            },
+            {
+                "name": "Buffalo Sauce",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/basesauce/BM.png?cache_key=22"
+            },
+            {
+                "name": "Hot Sauce",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/basesauce/HB.png?cache_key=22"
+            },
+            "Cheese",
+            {
+                "name":"Mozzarella" ,
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/MZ.png?cache_key=22"
+            },
+            {
+                "name": "Swiss",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/ZB.png?cache_key=22"
+            },
+            {
+                "name": "American",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/XC.png?cache_key=22"
+            }
+    ],
+    "Toppings":[
+            "Veggie",
+            {
+                "name": "Mushroom",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/FM.png?cache_key=22"
+            },
+            {
+                "name": "Plant-based Pepperoni",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/VP.png?cache_key=22"
+            },
+            {
+                "name": "Onion",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/O.png?cache_key=22"
+            },
+
+            {
+                "name": "Pineapple",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/PI.png?cache_key=22"
+            },
+            {
+                "name": "Pepper",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/GP.png?cache_key=22"
+            },
+            {
+                "name": "Olive",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/BO.png?cache_key=22"
+            },
+            "Meat",
+            {
+                "name": "Pepperoni",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/PN.png?cache_key=22"
+            },
+            {
+                "name": "Italian Sausage",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/IS.png?cache_key=22"
+            },
+            {
+                "name": "Ham",
+                "image": "https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/H.png?cache_key=22"
+            },
+            {
+                "name": "Bacon",
+                "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/BS.png?cache_key=22"
+            }
+        ],
+    "Extra":[
+        {
+            "name": "Chili",
+            "image": "https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/CP.png?cache_key=22"
+        },
+        {
+            "name": "Italian Seasoning",
+            "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/IT.png?cache_key=22"
+        },
+        {
+            "name": "Olive Oil",
+            "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/OL.png?cache_key=22"
+        },
+        {
+            "name": "Garlic Sauce",
+            "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/RZ.png?cache_key=22"
+        },
+        {
+            "name": "BBQ Sauce",
+            "image":"https://storage.pizzapizza.ca/phx2/ppl_images/toppings/en/2x/QT.png?cache_key=22"
+        }
+    ]
+}
