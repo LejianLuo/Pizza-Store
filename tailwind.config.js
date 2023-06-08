@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        verdana: ['Verdana', 'sans-serif'],
+      },
       keyframes: {
         fadeIn: {
           'from': { opacity: 0 },
