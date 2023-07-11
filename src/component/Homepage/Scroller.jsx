@@ -75,7 +75,7 @@ const adOne=(
     <div key={1} className="flex md:flex-row flex-col justify-center animate-fadeIn" >
         <img className="lg:w-[550px] w-[350px] md:h-[360px] h-[200px]" src="https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*" alt="ad1"/>
         <div className="lg:w-[550px] w-[350px] p-[30px] text-red-950 bg-gray-200">
-            <h1 className="lg:text-5xl text-2xl">ULTIMATE PEPPERONI</h1>
+            <h1 className="lg:text-5xl text-2xl">UL TIMATE PEPPERONI</h1>
             <h5 className='my-[10px] text-sm font-thin'> sed condimentum turpis pulvinar porttitor. Nulla dapibus leo enim, at fringilla enim porta eget.</h5>
             <h1 className="lg:text-5xl text-2xl my-[10px]">$14</h1>
             <button className='text-gray-100 bg-orange-700 p-[20px] mt-[20px] rounded-xl'><Link to='/pizza/PEPPERONI'>Order Now</Link></button>

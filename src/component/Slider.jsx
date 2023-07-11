@@ -18,7 +18,7 @@ export default function Slider(){
     }
     return (
         <>
-             <h1 className="text-center text-amber-900 md:text-4xl text-2xl mt-[30px]">RECOMMENDATION</h1>
+            <h1 className="text-center text-amber-900 md:text-4xl text-2xl mt-[30px]">RECOMMENDATION</h1>
             <div className="flex items-center justify-center overflow-hidden max-w-[1200px] mt-[30px] mx-auto">
                 <ArrowBackIosIcon onClick={left}/>
                 <div ref={slider} className='grid grid-flow-col overflow-hidden scroll-smooth gap-x-[10px]'>
